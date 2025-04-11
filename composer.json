@@ -1,0 +1,19 @@
+{
+    "name": "mahbubhussain/shopverse",
+    "description": "ShopVerse Lightweight Custom E-Commerce Toolkit for WP.",
+    "type": "wordpress-plugin",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "ShopVerse\\": "includes/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Mahbub",
+            "email": "mahbubhussaincse@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
